@@ -10,7 +10,7 @@ for i in n1:
 for i in n2:
     if i not in n1:
         equal2=False
-if(equal2 and equal1):
+if(equal1 and equal2):
     print("Numerele sunt prietenoase")
 else:
     print("Numerele nu sunt prietenoase")
